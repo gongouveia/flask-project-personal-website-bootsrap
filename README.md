@@ -3,9 +3,9 @@
 
 to run this repo localy please follow the following steps
 
-1 - download the zip file and exratc it in a given directory
+1 - Download the zip file and exratc it in a given directory
 
-2 - setup virtual environment
+2 - Setup virtual environment
 
     mkdir /c/(directory/.../)
     
@@ -14,7 +14,7 @@ to run this repo localy please follow the following steps
     source virt/Scripts/activate  
     
 
-3 - run the flask application
+3 - Run the flask application
 
     export FLASK_APP=hello.py
     
