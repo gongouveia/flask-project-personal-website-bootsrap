@@ -19,3 +19,6 @@ to run this repo localy please follow the following steps
     export FLASK_APP=hello.py
     
     flask run
+
+
+4 - The flask project was deployed in Heroku CI/CD Tools (https://id.heroku.com/)
