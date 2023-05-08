@@ -7,12 +7,15 @@ to run this repo localy please follow the following steps
 
 2 - setup virtual environment
 
-  mkdir /c/(directory/.../)
-  python -m venv virt
-  source virt/Scripts/activate     
-  source virt/Scripts/activate
+    mkdir /c/(directory/.../)
+    
+    python -m venv virt
+    
+    source virt/Scripts/activate  
+    
 
 3 - run the flask application
 
-  export FLASK_APP=hello.py
-  flask run
+    export FLASK_APP=hello.py
+    
+    flask run
