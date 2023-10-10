@@ -11,7 +11,7 @@ to run this repo localy please follow the following steps
     
     python -m venv virt
     
-    source virt/Scripts/activate  
+    source virt\Scripts\activate  
     
 
 3 - Run the flask application
